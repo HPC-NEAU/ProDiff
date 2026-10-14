@@ -1,4 +1,4 @@
-# PhysChemDiff: Physicochemical Property-Guided Protein Generation Using Latent Diffusion Models
+# CMADiff: Cross-Modal Aligned Diffusion for Controllable Protein Generation
 
 This repository is the official implementation of [PhysChemDiff: Physicochemical Property-Guided Protein Generation Using Latent Diffusion Models](https://huggingface.co/sanyier312/PhysChemDiff/tree/main).
 
